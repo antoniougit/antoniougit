@@ -57,7 +57,6 @@
   </a>
 </p>
 
-<h3 align="left">📊 GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=antoniougit&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=antoniougit&theme=github-dark-blue&hide_border=true&mode=weekly" alt="GitHub Streak" />

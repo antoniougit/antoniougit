@@ -59,8 +59,8 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=antoniougit&show_icons=true&theme=github_dark " alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=antoniougit&theme=github_dark " alt="GitHub streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=antoniougit&show_icons=true&theme=github_dark" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=antoniougit&theme=github_dark" alt="GitHub streak stats" />
 </p>
 
 <h3 align="left">🌐 Connect with Me:</h3>

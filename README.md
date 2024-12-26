@@ -24,9 +24,6 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="React" width="40" height="40" />
   </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" alt="Photoshop" width="40" height="40" />
-  </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="Node.js" width="40" height="40" />
   </a>
@@ -38,6 +35,9 @@
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python" width="40" height="40" />
+  </a>
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" alt="Photoshop" width="40" height="40" />
   </a>
 </p>
 

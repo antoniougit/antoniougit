@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm George</h1>
-<h3 align="center">A tech-enthusiast and problem-solver from Greece</h3>
+<h2 align="center">A tech-enthusiast and problem-solver from Greece</h2>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=antoniougit&label=Profile%20views&color=0e75b6&style=flat" alt="antoniougit" />
 </p>
 
-- 🔭 I’m currently working as an Engineering Team Lead in Digital Marketing.
-- 🌱 At the same time, I’m practicing Front-End development again to keep myself relevant.
+<p align="center">- 🔭 I’m currently working as an Engineering Team Lead in Digital Marketing.</p>
+<p align="center">- 🌱 At the same time, I’m practicing Front-End development again to keep myself relevant.</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">

@@ -5,8 +5,8 @@
   <img src="https://komarev.com/ghpvc/?username=antoniougit&label=Profile%20views&color=0e75b6&style=flat" alt="antoniougit" />
 </p>
 
-<p align="center">- 🔭 I’m currently working as an Engineering Team Lead in Digital Marketing.</p>
-<p align="center">- 🌱 At the same time, I’m practicing Front-End development again to keep myself relevant.</p>
+<p align="left">- 🔭 I’m currently working as an Engineering Team Lead in Digital Marketing.</p>
+<p align="left">- 🌱 At the same time, I’m practicing Front-End development again to keep myself relevant.</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">

@@ -60,7 +60,7 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=antoniougit&show_icons=true&theme=github_dark" alt="GitHub stats" />
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=antoniougit&theme=github-dark-blue&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=antoniougit&theme=github-dark-blue&hide_border=true&mode=weekly" alt="GitHub Streak" />
 </p>
 
 <h3 align="left">🌐 Connect with Me:</h3>

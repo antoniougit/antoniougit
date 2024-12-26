@@ -65,7 +65,7 @@
 
 <h3 align="left">🌐 Connect with Me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/antonioug/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn Badge" />
   </a>
 </p>

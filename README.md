@@ -8,6 +8,8 @@
 <p align="left">- 🔭 I’m currently working as an Engineering Team Lead in Digital Marketing.</p>
 <p align="left">- 🌱 At the same time, I’m practicing Front-End development again to keep myself relevant.</p>
 
+###
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
